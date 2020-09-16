@@ -1,7 +1,8 @@
 # miniproject
 
 This mini project is an application that allows the user to take the COVID-19 daily survey
-on their phone and upload the score they have on an online database.
+on their phone and upload the score they have on an online database. The application is made
+in Android Studio and was written in Java.
 
 The online database that we used is Firebase.
 
@@ -13,4 +14,4 @@ button.
 To take the survey, user click on the "Daily Survey" button on the main page after signing in.
 It will take the users to the survey page where the user will answer "yes" or "no" to each
 question with the button accordingly. After finishing the survey, the score will be shown to
-the user and automatically upload to our online database. 
+the user and automatically upload to our online database.
