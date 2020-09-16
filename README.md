@@ -4,6 +4,8 @@ This mini project is an application that allows the user to take the COVID-19 da
 on their phone and upload the score they have on an online database. The application is made
 in Android Studio and was written in Java.
 
+Covid11.0 is the latest version of this application.
+
 The online database that we used is Firebase.
 
 We use Google sign in to authenticate into the app and database. To sign in, use simply open
