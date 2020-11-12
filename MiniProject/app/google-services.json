@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137581097194",
+    "firebase_url": "https://senminiproject.firebaseio.com",
+    "project_id": "senminiproject",
+    "storage_bucket": "senminiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137581097194:android:9dd87fabef954daca56793",
+        "android_client_info": {
+          "package_name": "com.example.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137581097194-849ehlci714iv8p9g9kf4q8q688ladbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid",
+            "certificate_hash": "f024e474e81f1d37229306ad7f0aa56fc44b89b9"
+          }
+        },
+        {
+          "client_id": "137581097194-st575qcs8lbhps1408ies8j9mp9rm5la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGBDZG91Mfmt3lhqJ-bTAQMzquhDvV6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137581097194-st575qcs8lbhps1408ies8j9mp9rm5la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
