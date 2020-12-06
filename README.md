@@ -17,3 +17,7 @@ To take the survey, user click on the "Daily Survey" button on the main page aft
 It will take the users to the survey page where the user will answer "yes" or "no" to each
 question with the button accordingly. After finishing the survey, the score will be shown to
 the user and automatically upload to our online database.
+
+There is a video showing our in use:
+[![image](https://github.com/Z-0311YQ/miniproject/blob/master/MiniProject/a.PNG?raw=true)](https://drive.google.com/file/d/1PyLjeHgLXnFCL5DN8fuUO0zzW3PhFY0V/preview)
+
